@@ -1,5 +1,5 @@
 # Data-Bases
-Assignment of the course Data Bases (2nd year, 1st semester)
+Assignment of the course Data Bases (BSc in Artificial Intelligence and Data Science 2nd year, 1st semester)
 
 ## How to run the code?
 You should follow the following example:
